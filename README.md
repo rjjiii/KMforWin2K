@@ -1,5 +1,5 @@
 # KMforWin2K
-K-Meleon 74 (with Goanna 2.2) portable installer for Windows 2000. 
+Install the unofficial port of K-Meleon 74 (with Goanna 2.2) for Windows 2000. 
 
 **[Download the Installer](https://github.com/rjjiii/KMforWin2K/releases/download/v74.G.22.1/KM74-g22.1.exe)**
 
