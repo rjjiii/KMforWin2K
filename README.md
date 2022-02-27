@@ -17,11 +17,11 @@ Source code for K-Meleon 74 is here: https://sourceforge.net/projects/kmeleon/fi
 
 Changes from Roytam's archive were mostly to avoid bugs. They include:
 
-removed: K-Meleon\Extensions\
+Removed: K-Meleon\Extensions\
 * all files and folders
 (due to bugs)
 
-remove K-Meleon\macros:
+Removed K-Meleon\macros:
 * adblockplus.kmm
 * cookiesmanager.kmm
 * ExExPermissions.kmm
@@ -34,7 +34,7 @@ remove K-Meleon\macros:
 * tuxhelper.kmm
 (due to bugs)
 
-added Kmext NT to root directory
+Added Kmext NT to root directory
 (extension manager)
 
 Added
