@@ -3,7 +3,7 @@ There is an unstable port of K-Meleon 74 for Windows 2000 that includes the Goan
 
 Please note that Windows 2000 and especially 9X are no longer supported by Microsoft and do not receive security updates. 
 
-**[Download the Installer](https://github.com/rjjiii/KMforWin2K/releases/download/v74.G.22.1/KM74-g22.1.exe)**
+**[Download the Installer](https://github.com/rjjiii/KMforWin2K/releases/download/v74.G.22.3/KMforWin2000_Installer.exe)**
 
 ---
 
